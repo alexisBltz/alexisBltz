@@ -58,14 +58,8 @@
 
 ## 📫 Contacto
 
-- 📧 **alexis.tucorreo@example.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 🌐 [Portafolio Web](https://tuportafolio.com)
+- 📧 **am9517534@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-baltazar-mamani-mamani-07864a286/)  
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alexisBltz&icon=0&color=0" alt="Profile Visit Count"/>
-</p>
-
-<!-- Hecho con ❤️ usando GPRM (https://gprm.itsvg.in) -->
